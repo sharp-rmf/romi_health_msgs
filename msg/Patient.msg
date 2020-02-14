@@ -1,0 +1,9 @@
+string id
+string name
+string dob
+string gender
+string race
+string address
+string primary_language
+string martial_status
+string religion
