@@ -17,6 +17,9 @@ find_package(builtin_interfaces REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 set(msg_files
+	"msg/InstrumentSets.msg"
+	"msg/Inventory.msg"
+	"msg/InventoryItem.msg"
   "msg/OperatingTheatre.msg"
   "msg/Patient.msg"
   "msg/TherapyOrder.msg"
